@@ -1,4 +1,4 @@
-package lamdaExpression.RealTimeExample;
+package lamdaExpression.realTimeExample;
 
 import java.util.Objects;
 
